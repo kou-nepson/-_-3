@@ -14,6 +14,21 @@
 		1E0A95C61D39D0CE00D19312 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E0A95C41D39D0CE00D19312 /* LaunchScreen.storyboard */; };
 		1E0A95D11D39D0CE00D19312 /* ___Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0A95D01D39D0CE00D19312 /* ___Tests.swift */; };
 		1E0A95DC1D39D0CE00D19312 /* ___UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E0A95DB1D39D0CE00D19312 /* ___UITests.swift */; };
+		1E3ECBC51D3C6A83000498A2 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E3ECBC41D3C6A83000498A2 /* StartViewController.swift */; };
+		1E4E12C81D52C4F700BA096C /* 日齢君　素材１.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E4E12C71D52C4F700BA096C /* 日齢君　素材１.png */; };
+		1E4E12CA1D52CAB700BA096C /* 日齢君　素材２.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E4E12C91D52CAB700BA096C /* 日齢君　素材２.png */; };
+		1E4E12CC1D52CE2100BA096C /* 日齢君　素材３.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E4E12CB1D52CE2100BA096C /* 日齢君　素材３.png */; };
+		1E5FA1561D39EEE1009A54A4 /* 足を食べる.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E5FA1551D39EEE1009A54A4 /* 足を食べる.png */; };
+		1E5FA15F1D3A0EE4009A54A4 /* 背景.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E5FA15E1D3A0EE4009A54A4 /* 背景.png */; };
+		1E8319001D3B28DF0079BDD3 /* 太陽.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E8318FF1D3B28DF0079BDD3 /* 太陽.png */; };
+		1E8319021D3B29400079BDD3 /* 月.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E8319011D3B29400079BDD3 /* 月.png */; };
+		1E8572E41D52C1DC000CCE9F /* 日齢君　素材.png in Resources */ = {isa = PBXBuildFile; fileRef = 1E8572E31D52C1DC000CCE9F /* 日齢君　素材.png */; };
+		1EC55EB61D50300C0036AA71 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EC55EB51D50300C0036AA71 /* icon.png */; };
+		1ED36C071D3C6009007414D6 /* tail.png in Resources */ = {isa = PBXBuildFile; fileRef = 1ED36C061D3C6009007414D6 /* tail.png */; };
+		1ED36C091D3C601C007414D6 /* bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 1ED36C081D3C601C007414D6 /* bar.png */; };
+		1EE64B561D61D69D003A2258 /* haike-.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EE64B551D61D69D003A2258 /* haike-.png */; };
+		1EE64B581D61D933003A2258 /* 日齢君　素材4.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EE64B571D61D932003A2258 /* 日齢君　素材4.png */; };
+		1EE64B5A1D61D95E003A2258 /* haike-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EE64B591D61D95E003A2258 /* haike-2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +62,21 @@
 		1E0A95D71D39D0CE00D19312 /* 日齢君UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "日齢君UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E0A95DB1D39D0CE00D19312 /* ___UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "___UITests.swift"; sourceTree = "<group>"; };
 		1E0A95DD1D39D0CE00D19312 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E3ECBC41D3C6A83000498A2 /* StartViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
+		1E4E12C71D52C4F700BA096C /* 日齢君　素材１.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "日齢君　素材１.png"; sourceTree = "<group>"; };
+		1E4E12C91D52CAB700BA096C /* 日齢君　素材２.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "日齢君　素材２.png"; sourceTree = "<group>"; };
+		1E4E12CB1D52CE2100BA096C /* 日齢君　素材３.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "日齢君　素材３.png"; sourceTree = "<group>"; };
+		1E5FA1551D39EEE1009A54A4 /* 足を食べる.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "足を食べる.png"; sourceTree = "<group>"; };
+		1E5FA15E1D3A0EE4009A54A4 /* 背景.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "背景.png"; sourceTree = "<group>"; };
+		1E8318FF1D3B28DF0079BDD3 /* 太陽.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "太陽.png"; sourceTree = "<group>"; };
+		1E8319011D3B29400079BDD3 /* 月.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "月.png"; sourceTree = "<group>"; };
+		1E8572E31D52C1DC000CCE9F /* 日齢君　素材.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "日齢君　素材.png"; sourceTree = "<group>"; };
+		1EC55EB51D50300C0036AA71 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		1ED36C061D3C6009007414D6 /* tail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tail.png; sourceTree = "<group>"; };
+		1ED36C081D3C601C007414D6 /* bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bar.png; sourceTree = "<group>"; };
+		1EE64B551D61D69D003A2258 /* haike-.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "haike-.png"; sourceTree = "<group>"; };
+		1EE64B571D61D932003A2258 /* 日齢君　素材4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "日齢君　素材4.png"; sourceTree = "<group>"; };
+		1EE64B591D61D95E003A2258 /* haike-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "haike-2.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +127,21 @@
 		1E0A95BA1D39D0CE00D19312 /* 日齢君 */ = {
 			isa = PBXGroup;
 			children = (
+				1ED36C0A1D3C61E3007414D6 /* New Group */,
+				1E5FA15E1D3A0EE4009A54A4 /* 背景.png */,
+				1E5FA1551D39EEE1009A54A4 /* 足を食べる.png */,
+				1EC55EB51D50300C0036AA71 /* icon.png */,
+				1E8318FF1D3B28DF0079BDD3 /* 太陽.png */,
+				1ED36C061D3C6009007414D6 /* tail.png */,
+				1ED36C081D3C601C007414D6 /* bar.png */,
+				1E8319011D3B29400079BDD3 /* 月.png */,
 				1E0A95BB1D39D0CE00D19312 /* AppDelegate.swift */,
 				1E0A95BD1D39D0CE00D19312 /* ViewController.swift */,
 				1E0A95BF1D39D0CE00D19312 /* Main.storyboard */,
 				1E0A95C21D39D0CE00D19312 /* Assets.xcassets */,
 				1E0A95C41D39D0CE00D19312 /* LaunchScreen.storyboard */,
 				1E0A95C71D39D0CE00D19312 /* Info.plist */,
+				1E3ECBC41D3C6A83000498A2 /* StartViewController.swift */,
 			);
 			path = "日齢君";
 			sourceTree = "<group>";
@@ -123,6 +162,20 @@
 				1E0A95DD1D39D0CE00D19312 /* Info.plist */,
 			);
 			path = "日齢君UITests";
+			sourceTree = "<group>";
+		};
+		1ED36C0A1D3C61E3007414D6 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				1EE64B591D61D95E003A2258 /* haike-2.png */,
+				1EE64B571D61D932003A2258 /* 日齢君　素材4.png */,
+				1EE64B551D61D69D003A2258 /* haike-.png */,
+				1E4E12CB1D52CE2100BA096C /* 日齢君　素材３.png */,
+				1E4E12C91D52CAB700BA096C /* 日齢君　素材２.png */,
+				1E4E12C71D52C4F700BA096C /* 日齢君　素材１.png */,
+				1E8572E31D52C1DC000CCE9F /* 日齢君　素材.png */,
+			);
+			name = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -193,16 +246,19 @@
 				TargetAttributes = {
 					1E0A95B71D39D0CE00D19312 = {
 						CreatedOnToolsVersion = 7.3;
-						DevelopmentTeam = 48ZVKL3GHQ;
+						DevelopmentTeam = NV6EXP3568;
+						LastSwiftMigration = 0820;
 					};
 					1E0A95CB1D39D0CE00D19312 = {
 						CreatedOnToolsVersion = 7.3;
 						DevelopmentTeam = 48ZVKL3GHQ;
+						LastSwiftMigration = 0820;
 						TestTargetID = 1E0A95B71D39D0CE00D19312;
 					};
 					1E0A95D61D39D0CE00D19312 = {
 						CreatedOnToolsVersion = 7.3;
 						DevelopmentTeam = 48ZVKL3GHQ;
+						LastSwiftMigration = 0820;
 						TestTargetID = 1E0A95B71D39D0CE00D19312;
 					};
 				};
@@ -232,9 +288,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E4E12CA1D52CAB700BA096C /* 日齢君　素材２.png in Resources */,
 				1E0A95C61D39D0CE00D19312 /* LaunchScreen.storyboard in Resources */,
+				1E8319021D3B29400079BDD3 /* 月.png in Resources */,
+				1E5FA1561D39EEE1009A54A4 /* 足を食べる.png in Resources */,
+				1EE64B581D61D933003A2258 /* 日齢君　素材4.png in Resources */,
 				1E0A95C31D39D0CE00D19312 /* Assets.xcassets in Resources */,
+				1E5FA15F1D3A0EE4009A54A4 /* 背景.png in Resources */,
+				1ED36C071D3C6009007414D6 /* tail.png in Resources */,
+				1EE64B561D61D69D003A2258 /* haike-.png in Resources */,
+				1EC55EB61D50300C0036AA71 /* icon.png in Resources */,
+				1E8572E41D52C1DC000CCE9F /* 日齢君　素材.png in Resources */,
+				1EE64B5A1D61D95E003A2258 /* haike-2.png in Resources */,
+				1E8319001D3B28DF0079BDD3 /* 太陽.png in Resources */,
+				1E4E12C81D52C4F700BA096C /* 日齢君　素材１.png in Resources */,
+				1ED36C091D3C601C007414D6 /* bar.png in Resources */,
 				1E0A95C11D39D0CE00D19312 /* Main.storyboard in Resources */,
+				1E4E12CC1D52CE2100BA096C /* 日齢君　素材３.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +330,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E0A95BE1D39D0CE00D19312 /* ViewController.swift in Sources */,
+				1E3ECBC51D3C6A83000498A2 /* StartViewController.swift in Sources */,
 				1E0A95BC1D39D0CE00D19312 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -402,10 +473,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = NV6EXP3568;
 				INFOPLIST_FILE = "日齢君/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "a.---";
+				PRODUCT_BUNDLE_IDENTIFIER = "a.--asdfghjklghjkxa";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -413,10 +490,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = NV6EXP3568;
 				INFOPLIST_FILE = "日齢君/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "a.---";
+				PRODUCT_BUNDLE_IDENTIFIER = "a.--asdfghjklghjkxa";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -428,6 +511,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "a.---Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/日齢君.app/日齢君";
 			};
 			name = Debug;
@@ -440,6 +524,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "a.---Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/日齢君.app/日齢君";
 			};
 			name = Release;
@@ -451,6 +536,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "a.---UITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = "日齢君";
 			};
 			name = Debug;
@@ -462,6 +548,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "a.---UITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 				TEST_TARGET_NAME = "日齢君";
 			};
 			name = Release;
@@ -485,6 +572,7 @@
 				1E0A95E21D39D0CE00D19312 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1E0A95E31D39D0CE00D19312 /* Build configuration list for PBXNativeTarget "日齢君Tests" */ = {
 			isa = XCConfigurationList;
@@ -493,6 +581,7 @@
 				1E0A95E51D39D0CE00D19312 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1E0A95E61D39D0CE00D19312 /* Build configuration list for PBXNativeTarget "日齢君UITests" */ = {
 			isa = XCConfigurationList;
@@ -501,6 +590,7 @@
 				1E0A95E81D39D0CE00D19312 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
