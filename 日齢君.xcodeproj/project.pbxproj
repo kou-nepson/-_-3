@@ -29,6 +29,21 @@
 		1EE64B561D61D69D003A2258 /* haike-.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EE64B551D61D69D003A2258 /* haike-.png */; };
 		1EE64B581D61D933003A2258 /* 日齢君　素材4.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EE64B571D61D932003A2258 /* 日齢君　素材4.png */; };
 		1EE64B5A1D61D95E003A2258 /* haike-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EE64B591D61D95E003A2258 /* haike-2.png */; };
+		89FBECBF2102B8B900CC8DE1 /* icon-20.png in Resources */ = {isa = PBXBuildFile; fileRef = 89FBECB02102B8B700CC8DE1 /* icon-20.png */; };
+		89FBECC02102B8B900CC8DE1 /* icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 89FBECB12102B8B800CC8DE1 /* icon-76.png */; };
+		89FBECC12102B8B900CC8DE1 /* icon-20@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89FBECB22102B8B800CC8DE1 /* icon-20@2x.png */; };
+		89FBECC22102B8B900CC8DE1 /* icon-76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89FBECB32102B8B800CC8DE1 /* icon-76@2x.png */; };
+		89FBECC32102B8B900CC8DE1 /* icon-60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89FBECB42102B8B800CC8DE1 /* icon-60@3x.png */; };
+		89FBECC42102B8B900CC8DE1 /* icon-40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89FBECB52102B8B800CC8DE1 /* icon-40@3x.png */; };
+		89FBECC52102B8B900CC8DE1 /* icon-29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89FBECB62102B8B800CC8DE1 /* icon-29@2x.png */; };
+		89FBECC62102B8B900CC8DE1 /* icon-83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89FBECB72102B8B800CC8DE1 /* icon-83.5@2x.png */; };
+		89FBECC72102B8B900CC8DE1 /* icon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 89FBECB82102B8B900CC8DE1 /* icon-29.png */; };
+		89FBECC82102B8B900CC8DE1 /* icon-60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89FBECB92102B8B900CC8DE1 /* icon-60@2x.png */; };
+		89FBECC92102B8B900CC8DE1 /* icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 89FBECBA2102B8B900CC8DE1 /* icon-40.png */; };
+		89FBECCA2102B8B900CC8DE1 /* icon-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 89FBECBB2102B8B900CC8DE1 /* icon-1024.png */; };
+		89FBECCB2102B8B900CC8DE1 /* icon-29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89FBECBC2102B8B900CC8DE1 /* icon-29@3x.png */; };
+		89FBECCC2102B8B900CC8DE1 /* icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89FBECBD2102B8B900CC8DE1 /* icon-40@2x.png */; };
+		89FBECCD2102B8B900CC8DE1 /* icon-20@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89FBECBE2102B8B900CC8DE1 /* icon-20@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,6 +92,21 @@
 		1EE64B551D61D69D003A2258 /* haike-.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "haike-.png"; sourceTree = "<group>"; };
 		1EE64B571D61D932003A2258 /* 日齢君　素材4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "日齢君　素材4.png"; sourceTree = "<group>"; };
 		1EE64B591D61D95E003A2258 /* haike-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "haike-2.png"; sourceTree = "<group>"; };
+		89FBECB02102B8B700CC8DE1 /* icon-20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-20.png"; path = "icon/iOS/AppIcon.appiconset/icon-20.png"; sourceTree = SOURCE_ROOT; };
+		89FBECB12102B8B800CC8DE1 /* icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-76.png"; path = "icon/iOS/AppIcon.appiconset/icon-76.png"; sourceTree = SOURCE_ROOT; };
+		89FBECB22102B8B800CC8DE1 /* icon-20@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-20@2x.png"; path = "icon/iOS/AppIcon.appiconset/icon-20@2x.png"; sourceTree = SOURCE_ROOT; };
+		89FBECB32102B8B800CC8DE1 /* icon-76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-76@2x.png"; path = "icon/iOS/AppIcon.appiconset/icon-76@2x.png"; sourceTree = SOURCE_ROOT; };
+		89FBECB42102B8B800CC8DE1 /* icon-60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-60@3x.png"; path = "icon/iOS/AppIcon.appiconset/icon-60@3x.png"; sourceTree = SOURCE_ROOT; };
+		89FBECB52102B8B800CC8DE1 /* icon-40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-40@3x.png"; path = "icon/iOS/AppIcon.appiconset/icon-40@3x.png"; sourceTree = SOURCE_ROOT; };
+		89FBECB62102B8B800CC8DE1 /* icon-29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-29@2x.png"; path = "icon/iOS/AppIcon.appiconset/icon-29@2x.png"; sourceTree = SOURCE_ROOT; };
+		89FBECB72102B8B800CC8DE1 /* icon-83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-83.5@2x.png"; path = "icon/iOS/AppIcon.appiconset/icon-83.5@2x.png"; sourceTree = SOURCE_ROOT; };
+		89FBECB82102B8B900CC8DE1 /* icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-29.png"; path = "icon/iOS/AppIcon.appiconset/icon-29.png"; sourceTree = SOURCE_ROOT; };
+		89FBECB92102B8B900CC8DE1 /* icon-60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-60@2x.png"; path = "icon/iOS/AppIcon.appiconset/icon-60@2x.png"; sourceTree = SOURCE_ROOT; };
+		89FBECBA2102B8B900CC8DE1 /* icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-40.png"; path = "icon/iOS/AppIcon.appiconset/icon-40.png"; sourceTree = SOURCE_ROOT; };
+		89FBECBB2102B8B900CC8DE1 /* icon-1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-1024.png"; path = "icon/iOS/AppIcon.appiconset/icon-1024.png"; sourceTree = SOURCE_ROOT; };
+		89FBECBC2102B8B900CC8DE1 /* icon-29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-29@3x.png"; path = "icon/iOS/AppIcon.appiconset/icon-29@3x.png"; sourceTree = SOURCE_ROOT; };
+		89FBECBD2102B8B900CC8DE1 /* icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-40@2x.png"; path = "icon/iOS/AppIcon.appiconset/icon-40@2x.png"; sourceTree = SOURCE_ROOT; };
+		89FBECBE2102B8B900CC8DE1 /* icon-20@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon-20@3x.png"; path = "icon/iOS/AppIcon.appiconset/icon-20@3x.png"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +157,21 @@
 		1E0A95BA1D39D0CE00D19312 /* 日齢君 */ = {
 			isa = PBXGroup;
 			children = (
+				89FBECB02102B8B700CC8DE1 /* icon-20.png */,
+				89FBECB22102B8B800CC8DE1 /* icon-20@2x.png */,
+				89FBECBE2102B8B900CC8DE1 /* icon-20@3x.png */,
+				89FBECB82102B8B900CC8DE1 /* icon-29.png */,
+				89FBECB62102B8B800CC8DE1 /* icon-29@2x.png */,
+				89FBECBC2102B8B900CC8DE1 /* icon-29@3x.png */,
+				89FBECBA2102B8B900CC8DE1 /* icon-40.png */,
+				89FBECBD2102B8B900CC8DE1 /* icon-40@2x.png */,
+				89FBECB52102B8B800CC8DE1 /* icon-40@3x.png */,
+				89FBECB92102B8B900CC8DE1 /* icon-60@2x.png */,
+				89FBECB42102B8B800CC8DE1 /* icon-60@3x.png */,
+				89FBECB12102B8B800CC8DE1 /* icon-76.png */,
+				89FBECB32102B8B800CC8DE1 /* icon-76@2x.png */,
+				89FBECB72102B8B800CC8DE1 /* icon-83.5@2x.png */,
+				89FBECBB2102B8B900CC8DE1 /* icon-1024.png */,
 				1ED36C0A1D3C61E3007414D6 /* New Group */,
 				1E5FA15E1D3A0EE4009A54A4 /* 背景.png */,
 				1E5FA1551D39EEE1009A54A4 /* 足を食べる.png */,
@@ -290,20 +335,35 @@
 			files = (
 				1E4E12CA1D52CAB700BA096C /* 日齢君　素材２.png in Resources */,
 				1E0A95C61D39D0CE00D19312 /* LaunchScreen.storyboard in Resources */,
+				89FBECBF2102B8B900CC8DE1 /* icon-20.png in Resources */,
 				1E8319021D3B29400079BDD3 /* 月.png in Resources */,
+				89FBECCD2102B8B900CC8DE1 /* icon-20@3x.png in Resources */,
 				1E5FA1561D39EEE1009A54A4 /* 足を食べる.png in Resources */,
 				1EE64B581D61D933003A2258 /* 日齢君　素材4.png in Resources */,
+				89FBECC42102B8B900CC8DE1 /* icon-40@3x.png in Resources */,
 				1E0A95C31D39D0CE00D19312 /* Assets.xcassets in Resources */,
+				89FBECC12102B8B900CC8DE1 /* icon-20@2x.png in Resources */,
 				1E5FA15F1D3A0EE4009A54A4 /* 背景.png in Resources */,
 				1ED36C071D3C6009007414D6 /* tail.png in Resources */,
 				1EE64B561D61D69D003A2258 /* haike-.png in Resources */,
+				89FBECC62102B8B900CC8DE1 /* icon-83.5@2x.png in Resources */,
+				89FBECCB2102B8B900CC8DE1 /* icon-29@3x.png in Resources */,
+				89FBECC52102B8B900CC8DE1 /* icon-29@2x.png in Resources */,
 				1EC55EB61D50300C0036AA71 /* icon.png in Resources */,
+				89FBECC72102B8B900CC8DE1 /* icon-29.png in Resources */,
+				89FBECC22102B8B900CC8DE1 /* icon-76@2x.png in Resources */,
 				1E8572E41D52C1DC000CCE9F /* 日齢君　素材.png in Resources */,
+				89FBECC02102B8B900CC8DE1 /* icon-76.png in Resources */,
 				1EE64B5A1D61D95E003A2258 /* haike-2.png in Resources */,
+				89FBECCC2102B8B900CC8DE1 /* icon-40@2x.png in Resources */,
+				89FBECC92102B8B900CC8DE1 /* icon-40.png in Resources */,
 				1E8319001D3B28DF0079BDD3 /* 太陽.png in Resources */,
 				1E4E12C81D52C4F700BA096C /* 日齢君　素材１.png in Resources */,
+				89FBECC32102B8B900CC8DE1 /* icon-60@3x.png in Resources */,
 				1ED36C091D3C601C007414D6 /* bar.png in Resources */,
+				89FBECC82102B8B900CC8DE1 /* icon-60@2x.png in Resources */,
 				1E0A95C11D39D0CE00D19312 /* Main.storyboard in Resources */,
+				89FBECCA2102B8B900CC8DE1 /* icon-1024.png in Resources */,
 				1E4E12CC1D52CE2100BA096C /* 日齢君　素材３.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -449,7 +509,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Hayato Sugiyama (NV6EXP3568)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -490,7 +551,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Hayato Sugiyama (NV6EXP3568)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = NV6EXP3568;
 				INFOPLIST_FILE = "日齢君/Info.plist";

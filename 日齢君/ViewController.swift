@@ -129,7 +129,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
     
     
     //結果ボタンを押した時に呼び出されるメソッド
-    @IBAction func processButtonTapped(_ sender: UIButton) {
+    @IBAction func processButtonTapped() {
         
         
         
@@ -210,12 +210,14 @@ class ViewController: UIViewController, UITextFieldDelegate {
         nen.text = "1543"
         tsuki.text = "1"
         nichi.text = "21"
+        self.processButtonTapped()
     }
     //日本の建国記念日を入力する
     @IBAction func kennkoku () {
         nen.text =  "-660"
         tsuki.text = "2"
         nichi.text = "11"
+        self.processButtonTapped()
     }
     
         
